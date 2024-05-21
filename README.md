@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hamdifarid
-- 👀 I’m interested in Python 
-- 🌱 I’m currently learning Electronics and Telecommunication
-- 💞️ I’m looking to collaborate on Artificial intelligence
+- 👀 I’m interested in C#, Dart, Flutter, Python AI/ML and Nodejs 
+- 🌱 I currently hold a M.Tech degree
+- 💞️ I’m looking to collaborate on Artificial intelligence and other projects. 
 - 📫 How to reach me hamdi.yaser.farid@gmail.com
 
 <!---
