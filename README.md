@@ -7,7 +7,7 @@
  - Node.js: Building scalable server-side applications and APIs.
  - Python: Leveraging the power of AI/ML libraries for data-driven solutions.
 
-##🧑‍💻 What I Do
+## 🧑‍💻 What I Do
 ### C# Development
 - Develop enterprise-level applications using .NET.
 - Design and implement RESTful APIs.
